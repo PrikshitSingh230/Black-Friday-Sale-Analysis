@@ -1,8 +1,4 @@
-# Black Friday Order Analysis
-
-### Repository Summary
-
-This project presents an exploratory analysis of over **500K Black Friday transactions**, covering **17K+ orders**, **5,891 customers**, and **3,623 products** across **18 categories**. Using Python and Jupyter Notebook, the data was cleaned, organized, and analyzed by gender, age, city, occupation, and product type to uncover key buying trends and customer behavior patterns.
+# Black Friday Order Analysis 🛍️
 
 ---
 
@@ -93,8 +89,8 @@ Data obtained from **Kaggle** (Black Friday transactions export).
 
 ### Deliverables in the repo / notebook
 
-* Cleaned notebook (.ipynb) with all analysis cells and plots.
-* CSV exports: 
+* Cleaned notebook (.ipynb) : [JupyterNotebook](https://github.com/PrikshitSingh230/Black-Friday-Sale-Analysis/blob/main/BlackFriday%20Analysis.ipynb)
+* CSV exports: [CSV](https://github.com/PrikshitSingh230/Black-Friday-Sale-Analysis/blob/main/BlackFriday.csv)
 
 
 ---
