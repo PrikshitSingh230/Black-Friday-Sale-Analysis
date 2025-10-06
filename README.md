@@ -54,7 +54,7 @@ Data obtained from **Kaggle** (Black Friday transactions export).
 
 * Gender: order counts, average purchase per user, share of total revenue by gender.
 * AgeBracket: total orders and average order value per bracket.
-* Marital & combined `marital_gender`: repeat purchase behavior and average spend by group.
+* Marital & combined marital_gender: repeat purchase behavior and average spend by group.
 * City category & stay-in-city years: order volumes and stability of buyers by locality.
 * Occupation: order count and average spend per occupation group.
 * Product category: which categories drive most orders and which have higher revenue per order.
@@ -71,7 +71,7 @@ Data obtained from **Kaggle** (Black Friday transactions export).
   The `AgeBracket = adult` group records the highest order counts and contributes the largest share of revenue.
 
 * **Married males show stronger value signals.**
-  The `marital_gender` combination for married males has higher average order value and more repeat orders than many other groups.
+  The marital_gender combination for married males has higher average order value and more repeat orders than many other groups.
 
 * **City category and time-in-city matter.**
   One city category (noted in the notebook) has the highest order volume; customers who have lived longer in their current city show higher order frequency.
